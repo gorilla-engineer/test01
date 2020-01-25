@@ -1,2 +1,2 @@
 # test-repo
-test repository
+My first repository created by test
